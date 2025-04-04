@@ -19,7 +19,5 @@
 #### Apaixonado por tecnologia, estudante da Universidade Eduardo Mondlane., curso eng Informatica👊👊👊
 
 ## Para mais informacoes:
--[Contacto: 843801472/873801473]()<br/>
--[Faculdade: Engenharia]()<br/>
--[Contacto: 843801472/873801473]()<br/>
+-[Contacto: 823801472]()<br/>
 -[Faculdade: Engenharia]()<br/>
