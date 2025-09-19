@@ -58,7 +58,7 @@
    <a href="https://wa.me/258873801473" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>  
-  <a href="omardavidexavier@gmail.com" target="_blank">
+  <a href="https://omardavidexavier@gmail.com/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  
   <a href="www.linkedin.com/in/omar-davide-xavier-8128ab273" target="_blank">
