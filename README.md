@@ -10,12 +10,14 @@
 </p>
 
 ---
-### 🧠 Atualmente estudando:
+### 🧠 Actualmente estudando:
 - Python para Análise de Dados
 - Visualização de Dados com Streamlit e Plotly
 - Banco de Dados e SQL
 - Fundamentos de Cibersegurança
 - Engenharia de Dados com ETL e pipelines
+- Aprefeiçoando Desenvolvimento Web, utilização de framework e IAs
+- Redes de Computadores e Administração e segurança de sistemas de computadores
 
 ---
 ### 🛠️ Tecnologias que eu uso no meu dia:
@@ -53,7 +55,7 @@
 ---
 ## 📫 Contatos:
 <div>
-  <a href="https://www.facebook.com/otallfinokelas.finokelas" target="_blank">
+  <a href="https://www.facebook.com/share/1AfXQVwwkV/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/enoque-mandlate-designer-programador" target="_blank">
